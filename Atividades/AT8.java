@@ -28,7 +28,7 @@ public class AT8 {
         
         
         double desconto = valorProduto * (percentual/100);
-        double valorFinal = valorProduto + desconto;
+        double valorFinal = valorProduto - desconto;
         System.out.println("O valor com desconto fica: "+valorFinal);
          
         
