@@ -30,11 +30,13 @@ public class AT13 {
         if (media < 7) {
             
             System.out.println(nome+" você foi reprovado!");
+            System.out.println(media);
             
             
         }else{
         
             System.out.println(nome+" você foi aprovado!");
+            System.out.println(media);
         }
         
     }

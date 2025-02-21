@@ -31,7 +31,7 @@ public class AT11 {
             
             
         }else{
-            System.out.println("O motorista nao foi multado!");
+            System.out.println("O motorista não foi multado!");
         }   
             
                 
